@@ -10,9 +10,11 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 |
 | Dedicated to
 |
+
 .. image:: ./media/image1.png
    :height: 100px
    :align: right
+
 | Alan Mathison Turing, PhD, OBE, FRS
 | 1912-1954
 | British mathematician, logician, cryptanalyst, philosopher, pioneeringomputer scientist, mathematical biologist, and marathon runner
@@ -20,9 +22,11 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 |
 | and to
 |
+
 .. image:: ./media/image2.png
    :height: 100px
    :align: right
+
 | Pharra Joy DeWindt, PhD – Yaa Nyarkoa
 | 1957-2005
 |
