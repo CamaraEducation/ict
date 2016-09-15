@@ -1,4 +1,4 @@
-**Lesson 2** MORE ON WORD PROCESSING
+**Lesson 2** More on Word Processing
 ====================================
 
   ------- -------------------------------

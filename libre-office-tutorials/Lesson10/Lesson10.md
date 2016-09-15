@@ -1,4 +1,4 @@
-**Lesson 10** *IMPRESS* BEYOND THE BASICS
+**Lesson 10** *IMPRESS* Beyond the Basics
 =========================================
 
   -------- --------------------------------------------

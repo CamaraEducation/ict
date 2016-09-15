@@ -1,4 +1,4 @@
-**Lesson 8** MORE ON DATABASE USE
+**Lesson 8** More on Database Use
 =================================
 
   ------- ---------------------------------------

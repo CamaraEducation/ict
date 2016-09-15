@@ -1,4 +1,4 @@
-**Lesson 4** Introduction to THE *CALC* SPREADSHEET
+**Lesson 4** Introduction to The *Calc* Spreadsheet
 ===================================================
 
   ------- --------------------------------------------

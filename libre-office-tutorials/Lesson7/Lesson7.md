@@ -1,4 +1,4 @@
-**Lesson 7** MAIL MERGE AND RELATED OPERATIONS
+**Lesson 7** Mail Merge and Related Operations
 ==============================================
 
   ------- ---------------------------------------

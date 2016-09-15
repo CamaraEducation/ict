@@ -1,4 +1,4 @@
-**Lesson 5** More on the Use of THE SPREADSHEET
+**Lesson 5** More on the Use of the Spreadsheet
 ===============================================
 
   ------- -----------------------------------------

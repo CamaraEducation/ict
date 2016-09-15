@@ -1,4 +1,4 @@
-**Lesson 3** THE *LIBREOFFICE* DRAWING TOOLS
+**Lesson 3** The *LibreOffice* Drawing Tools
 ============================================
 
   ------- -------------------------------------

@@ -1,5 +1,5 @@
-**Lesson 6** INTRODUCTION TO THE *BASE* DATABASE
-================================================
+**Lesson 6** Introduction to the *BASE*  database
+=================================================
 
   ------- -----------------------------------------
   **6**   **Introduction to the *BASE* DATABASE**
