@@ -12,7 +12,7 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 |
 
 .. image:: ./media/image1.png
-   :height: 100px
+   :scale: 50 %
    :align: right
 
 | Alan Mathison Turing, PhD, OBE, FRS
@@ -35,7 +35,7 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 | (motto of the Digital Literacy Alliance)
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    Lesson1/Lesson1
