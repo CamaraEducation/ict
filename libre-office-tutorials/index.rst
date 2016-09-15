@@ -3,24 +3,32 @@ LibreOffice Tutorials for Turing Trust Students
 
 ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 
-by Bernard John Poole
-Associate Professor Emeritus
-of at Johnstown, PA, USA
-
-Dedicated to
-Alan Mathison Turing, PhD, OBE, FRS
-1912-1954
-
-![](./libre/dedication/image1.png)
-British mathematician, logician, cryptanalyst, philosopher, pioneeringomputer scientist, mathematical biologist, and marathon runner
-and to
-Pharra Joy DeWindt, PhD – Yaa Nyarkoa
-1957-2005
-
-![](./libre/dedication/image2.png)
-Founder and Executive Director of the Digital Literacy Alliance (DLA), non-profit organization dedicated to facilitating the educationaldvancement of the youth of Agona Duakwa, a village in the Centralegion of Ghana, West Africa.
-“Literacy is the beginning of freedom.”
-(motto of the Digital Literacy Alliance)
+| by Bernard John Poole
+| Associate Professor Emeritus
+| of Johnstown, PA, USA
+|
+|
+| Dedicated to
+|
+.. image:: ./media/image1.png
+   :height: 100px
+   :align: right
+| Alan Mathison Turing, PhD, OBE, FRS
+| 1912-1954
+| British mathematician, logician, cryptanalyst, philosopher, pioneeringomputer scientist, mathematical biologist, and marathon runner
+|
+|
+| and to
+|
+.. image:: ./media/image2.png
+   :height: 100px
+   :align: right
+| Pharra Joy DeWindt, PhD – Yaa Nyarkoa
+| 1957-2005
+|
+| Founder and Executive Director of the Digital Literacy Alliance (DLA), non-profit organization dedicated to facilitating the educationaldvancement of the youth of Agona Duakwa, a village in the Centralegion of Ghana, West Africa.
+| “Literacy is the beginning of freedom.”
+| (motto of the Digital Literacy Alliance)
 
 .. toctree::
    :maxdepth: 1
