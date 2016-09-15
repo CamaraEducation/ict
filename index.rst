@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to ICT Documentation Homepage!
-===============================
+======================================
 
 All documents for ICT teachers are now online on this site.
 
@@ -14,7 +14,8 @@ Contents:
    :maxdepth: 1
    :glob:
 
-   computingnotes
+   basic-computer-skills/index
+   libre-office-tutorials/index
 
 .. Indices and tables
 .. ==================

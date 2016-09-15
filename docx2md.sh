@@ -52,4 +52,4 @@ fi
 mkdir -p "$1"
 
 cd "$1"
-pandoc -f docx -t markdown  --extract-media="." -o "README.md" "../$1.docx"
+pandoc -f docx -t markdown  --extract-media="." -o "$1.md" "../$1.docx"

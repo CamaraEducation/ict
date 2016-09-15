@@ -1,7 +1,7 @@
-Computing Notes
-===============
+ICCES Manager training: Basic Computer Skills and Maintenance
+=============================================================
 
-![](./computingnotes/image1.jpeg) The story of modern electronic digital computing
+![](./media/image1.jpeg) The story of modern electronic digital computing
 should start with Alan Turing, the man for whom the Turing Trust is
 named. Turing published a paper in 1936 *On Computable Numbers, with an
 application to the Entscheidungsproblem*. The paper proved that you
@@ -60,7 +60,7 @@ And we’re just beginning to discover what the computer can help us do!
 
 ### Chapter 1: Hardware
 
-![](./computingnotes/image2.jpg)
+![](./media/image2.jpg)
 
 #### Turning the computer on
 
@@ -81,7 +81,7 @@ warm, boot is when you *restart* the computer without turning it off.
 You do this using the **Restart** option in the Start Menu (see right
 Figure below).
 
-![](./computingnotes/image3.jpg) ![](./computingnotes/image4.jpg)
+![](./media/image3.jpg) ![](./media/image4.jpg)
 
 #### The Processor
 
@@ -109,7 +109,7 @@ boot process explained above. These programs, such as the Basic
 Input-Output System (BIOS), are hardwired on the chips inside the ALU
 (see Figure below).
 
-![](./computingnotes/image5.jpg)
+![](./media/image5.jpg)
 
 Intel’s Core 2 Duo logic board
 
@@ -125,7 +125,7 @@ This is the memory that you have on the computer’s hard drive, or on
 your USB drive, or on CDs and DVDs, or Flash memory cards, like the ones
 in your camera (see Figure below).
 
-![](./computingnotes/image6.jpeg)
+![](./media/image6.jpeg)
 
 There are lots of types of Secondary memory, even what they call “The
 Cloud,” which is Secondary memory that companies like Google or
@@ -141,7 +141,7 @@ stuff in a bit, too.
 A picture tells a thousand words, so he’s a picture which illustrates
 all the different types of input devices (see Figure).
 
-![](./computingnotes/image7.jpg)
+![](./media/image7.jpg)
 
 *The Keyboard*
 
@@ -194,7 +194,7 @@ resolution (millions or billions of bits).
 A picture tells a thousand words, so he’s a picture which illustrates
 all the different types of output devices (see Figure).
 
-![](./computingnotes/image8.jpg)
+![](./media/image8.jpg)
 
 *The Screen (Monitor)*
 
@@ -333,7 +333,7 @@ the Office tutorials.
 
 *Word processing*
 
-![](./computingnotes/image9.jpeg)A word processor, such as Microsoft *Word* or
+![](./media/image9.jpeg)A word processor, such as Microsoft *Word* or
 LibreOffice *Write*, is designed to help the user with the composition,
 editing, formatting, and sometimes printing of any sort of written
 material, such as letters, papers, memos, résumés and curriculum vitae
@@ -345,7 +345,7 @@ the software. Above all, the word processor makes you look good!
 
 *The Spreadsheet*
 
-![](./computingnotes/image10.jpg)Historically, spreadsheets were maintained in
+![](./media/image10.jpg)Historically, spreadsheets were maintained in
 accounting journals or ledgers. They date back to the 14th and 15th
 centuries. Nearly 500 years later, in 1978, Dan Bricklin, a young
 graduate student at the Harvard School of Business in the USA, came up
@@ -365,7 +365,7 @@ processor for *lists* of data, whether the lists be numbers or text.
 
 *Database Management*
 
-![](./computingnotes/image11.jpeg)A database is an electronic storage system that
+![](./media/image11.jpeg)A database is an electronic storage system that
 holds any and all data that you need to access and use. A database
 Management System is a collection of programs that enables you to store
 all that data, modify it, and extract information from the database.
@@ -378,7 +378,7 @@ tasks that would be very hard, if not impossible, without it.
 
 *Presentation Software*
 
-![](./computingnotes/image12.jpg)Presentation software such as Microsoft Office
+![](./media/image12.jpg)Presentation software such as Microsoft Office
 *PowerPoint **or LibreOffice** Impress*, are tools designed to help you
 present data in the form of multiple media—*multimedia*—that might be
 text, still images, video and/or sound. Presentations are not designed
@@ -401,7 +401,7 @@ history and goals.
 
 *Drawing/Graphics Tools*
 
-![](./computingnotes/image13.jpg)Each of the Office applications is designed for
+![](./media/image13.jpg)Each of the Office applications is designed for
 a particular purpose. *Excel* is a number cruncher, *Word* is a powerful
 word processor, and *PowerPoint* is a presentation application
 extraordinaire. Although you use the different Office applications for
@@ -425,7 +425,7 @@ The key features of GUIs are the **W**indows, **I**cons, **M**enus, and
 now common to all types of computers—whether it’s a desktop computer,
 laptop, tablet, or phone.
 
-![](./computingnotes/image14.jpg)
+![](./media/image14.jpg)
 
 Touch screens have now been added to the GUI mix, and the point is that
 these interaction tools have made it possible for more or less anyone to
@@ -445,7 +445,7 @@ and point and click.
 Take a moment to try out each of the shortcuts illustrated in the Figure
 below, and keep this Figure handy for future use.
 
-![](./computingnotes/image15.jpg)
+![](./media/image15.jpg)
 
 ### Chapter 4: Working with Files
 
@@ -494,13 +494,13 @@ This is easy enough to do.
 As illustrated below, the computer stores all your files in a hierarchy
 of folders:
 
-![](./computingnotes/image16.jpg)
+![](./media/image16.jpg)
 
 The easiest way to rename a folder or file is by *right-clicking* on the
 *name* of the folder or file, which brings up what’s called a *Context
 menu* (see Figure).
 
-![](./computingnotes/image17.jpg)
+![](./media/image17.jpg)
 
 So whenever you *right-click* on any object on the screen a Context menu
 pops up, which gives you a menu of options that you can carry out on the
@@ -510,7 +510,7 @@ the system highlights the name of the file in blue. Now all you have to
 do is type the new file name and hit the Enter key on the keyboard.
 Easily done.
 
-![](./computingnotes/image18.png)![](./computingnotes/image19.png)
+![](./media/image18.png)![](./media/image19.png)
 
 *Saving files (Save and Save As)*
 
@@ -525,14 +525,14 @@ the desktop or in one of the folders you already have on your disk
 drive. You’ll have the opportunity to practice doing this many times
 when you work your way through the ICCES Office tutorials.
 
-![](./computingnotes/image20.png)
+![](./media/image20.png)
 
 While this Office default name is still highlighted in Blue, you’ll go
 ahead and type a file name that briefly describes the content of the
 document—in this case *Application Letter*—and then, still in the dialog
 box, click on the *Save* button (see Figure below).
 
-![](./computingnotes/image21.png)
+![](./media/image21.png)
 
 *Organizing files*
 
@@ -557,13 +557,13 @@ easiest way to delete a folder or file is by *right-clicking* on the
 *name* of the folder or file, which again brings up a *Context menu*
 (see Figure).
 
-![](./computingnotes/image17.jpg)
+![](./media/image17.jpg)
 
 This time, instead of Renaming the file, you want to *Delete* it. When
 you select the option to Delete the file, you’ll be prompted to confirm
 that this is what you want to do.
 
-![](./computingnotes/image22.png)
+![](./media/image22.png)
 
 When you click on the *Yes* button, the file is still not actually gone
 altogether. Windows (the Operating System on your computer) puts the
@@ -574,7 +574,7 @@ Recycle Bin, you just go to the Desktop and *right click* on the Recycle
 Bin icon to bring up the Context menu (see Figure) and, in the menu that
 pops up, select the option to *Empty Recycle Bin*.
 
-![](./computingnotes/image23.png)
+![](./media/image23.png)
 
 ## Part II: Basic Computer Maintenance
 
@@ -625,7 +625,7 @@ A dirty keyboard doesn't look nice and can cause your keyboard to **not
 work** properly. Dust, food, liquid, and other particles can get stuck
 underneath the keys, which can prevent them from working properly.
 
-![](./computingnotes/image24.jpeg)Check your owner's manual to see if the
+![](./media/image24.jpeg)Check your owner's manual to see if the
 manufacturer has provided you with instructions for your specific
 keyboard. If so, follow them. If not, the following steps are basic
 cleaning tips that can help keep your keyboard clean:
@@ -670,7 +670,7 @@ There are two main types of mice: **optical** and **mechanical**. Each
 is cleaned in basically the same way, although the mechanical mouse
 requires a bit more work.
 
--   ![](./computingnotes/image25.jpeg)![](./computingnotes/image26.jpeg)**Optical mice**
+-   ![](./media/image25.jpeg)![](./media/image26.jpeg)**Optical mice**
     require **no internal cleaning** since there aren't any rotating
     parts; however, they can get **sticky** over time as dust collects
     near the light emitter. This can cause erratic cursor movement or
@@ -686,7 +686,7 @@ manufacturer has provided you with instructions for your specific mouse.
 If so, follow those instructions. If not, the following steps are basic
 cleaning tips that will help keep your mouse clean.
 
-1.  ![](./computingnotes/image27.jpeg)**Unplug** the mouse from the USB or
+1.  ![](./media/image27.jpeg)**Unplug** the mouse from the USB or
     PS/2 port. If the mouse is plugged into the PS/2 port, you will need
     to shut down the computer before unplugging it.
 
@@ -708,7 +708,7 @@ the dust and particles should rub off onto the paper.
 
 #### Cleaning the monitor
 
-![](./computingnotes/image28.jpeg)Dirt, fingerprints, and dust can make your
+![](./media/image28.jpeg)Dirt, fingerprints, and dust can make your
 computer screen difficult to read. However, it's easy to clean your
 screen when needed. Although there are monitor-cleaning kits you can
 buy, they may do more harm than good if they are designed for a
@@ -737,7 +737,7 @@ From time to time, you should clean your computer case and the sides and
 back of the monitor to avoid buildup of dust and dirt. Here are a few
 tips you can use when cleaning these surfaces:
 
--   ![](./computingnotes/image29.jpeg)Dust is your computer's main enemy. Use an
+-   ![](./media/image29.jpeg)Dust is your computer's main enemy. Use an
     anti-static wipe to lightly dust your computer casing. Don't use
     furniture cleaners or strong solvents.
 
@@ -864,7 +864,7 @@ Also, antivirus software, such as the software illustrated below, may
 run out (for example, after 1 year). It is thus important to know when
 that happens so you can update to the newest version.
 
-![](./computingnotes/image30.jpeg)
+![](./media/image30.jpeg)
 
 *General good practice *
 
@@ -901,7 +901,7 @@ drive** or an **online backup service**.
 
 #### External hard drives
 
--   ![](./computingnotes/image31.jpeg)You can purchase an **external hard drive**
+-   ![](./media/image31.jpeg)You can purchase an **external hard drive**
     and copy the contents of your computer to it. The **initial backup
     could take several hours**, so you will need to select a period of
     time when you do not need access to your computer. Running the
@@ -960,7 +960,7 @@ drive** or an **online backup service**.
     (see Figure on next page). Then scroll down the menu to select the
     **Delete** option.
 
-    ![](./computingnotes/image32.jpg)
+    ![](./media/image32.jpg)
 
 -   **Disk Defragmenter:** Windows includes a **Disk Defragmenter**
     program in the Control Panel (see Figure below). It **scans** the
@@ -968,7 +968,7 @@ drive** or an **online backup service**.
     them faster. If your computer is running slowly, running Disk
     Defragmenter can help to speed it up.
 
-![](./computingnotes/image33.jpeg)
+![](./media/image33.jpeg)
 
 -   **Disk Cleanup:** Windows also includes a **Disk Cleanup** program
     > in the Control Panel (see Figure on the next page. It scans your
@@ -976,7 +976,7 @@ drive** or an **online backup service**.
     > be deleted. You can then delete the files to free up space on your
     > hard drive.
 
-> ![](./computingnotes/image34.png)
+> ![](./media/image34.png)
 
 #### Avoiding strain and injury
 
@@ -1013,7 +1013,7 @@ and **ergonomic chairs**.<span id="_Toc401260579" class="anchor"></span>
     **support the lower back** and promote good posture (see
     Figure below).
 
-    ![](./computingnotes/image35.jpeg)
+    ![](./media/image35.jpeg)
 
 -   **Keep the keyboard at a comfortable height:** Try to place the
     keyboard in a position that allows you to keep your wrists straight
@@ -1022,7 +1022,7 @@ and **ergonomic chairs**.<span id="_Toc401260579" class="anchor"></span>
     **ergonomic keyboard** that is designed to minimize wrist strain
     (see Figure below).
 
-    ![](./computingnotes/image36.jpeg)
+    ![](./media/image36.jpeg)
 
 <!-- -->
 
