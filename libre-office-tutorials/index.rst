@@ -12,7 +12,7 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 |
 
 .. image:: ./media/image1.png
-   :scale: 50 %
+   :height: 100 px
    :align: right
 
 | Alan Mathison Turing, PhD, OBE, FRS
@@ -24,7 +24,7 @@ ESSENTIAL *LibreOffice* Tutorials for Turing Trust Students in Ghana
 |
 
 .. image:: ./media/image2.png
-   :height: 100px
+   :height: 100 px
    :align: right
 
 | Pharra Joy DeWindt, PhD – Yaa Nyarkoa
