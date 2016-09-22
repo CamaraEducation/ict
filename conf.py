@@ -16,7 +16,7 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
@@ -153,7 +153,7 @@ html_title = u'ICT Documentation Site'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -337,7 +337,7 @@ texinfo_documents = [
 #
 # texinfo_no_detailmenu = False
 
-
+# -- Use Markdown ---------------------------------------------------------
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
@@ -347,3 +347,15 @@ source_parsers = {
 source_suffix = ['.rst', '.md']
 
 RTD_NEW_THEME = True
+
+
+# -- Use RTD Theme --------------------------------------------------------
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+if not on_rtd:  # only import and set the theme if we're building docs locally
+    # import sphinx_rtd_theme
+    html_theme = 'sphinx_rtd_theme'
+    html_theme_path = ["_themes"]
+
+# otherwise, readthedocs.org uses their theme by default, so no need to specify it
