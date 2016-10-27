@@ -145,8 +145,16 @@
 <span id="ict-documentation"></span><h1>ICT Documentation<a class="headerlink" href="#ict-documentation" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="how-to-contribute-to-this-project">
 <span id="how-to-contribute-to-this-project"></span><h2>How to contribute to this project<a class="headerlink" href="#how-to-contribute-to-this-project" title="Permalink to this headline">¶</a></h2>
-<ol class="simple">
-<li></li>
+<ol>
+<li><p class="first">Taken from http://docs.readthedocs.io/en/latest/getting_started.html</p>
+<p>$ pip install sphinx sphinx-autobuild</p>
+</li>
+<li><p class="first">To auto update as you write your document. The _build_html/index.html will be updated every time you update your document:</p>
+<p>$ sphinx-autobuild . _build_html</p>
+</li>
+<li><p class="first">To build the output (folder <code class="docutils literal"><span class="pre">_build</span></code>):</p>
+<p>$ make html</p>
+</li>
 </ol>
 </div>
 <div class="section" id="how-to-add-new-documents">
@@ -162,7 +170,13 @@
 <ol class="simple">
 <li>Run <code class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></code> to update the _build folder. It will get picked up by rachel-index.php automatically</li>
 <li>On the client, update by getting the file: <code class="docutils literal"><span class="pre">wget</span> <span class="pre">--no-check-certificate</span> <span class="pre">https://github.com/SystemR/ict/archive/master.zip</span></code></li>
-<li>If the repository was checked out using git then do a <code class="docutils literal"><span class="pre">git</span> <span class="pre">pull</span></code> on the folder to update</li>
+<li>If the repository was checked out using git, do a <code class="docutils literal"><span class="pre">git</span> <span class="pre">pull</span></code> on the folder to update</li>
+</ol>
+</div>
+<div class="section" id="deployment-for-read-the-docs">
+<span id="deployment-for-read-the-docs"></span><h2>Deployment for Read The Docs<a class="headerlink" href="#deployment-for-read-the-docs" title="Permalink to this headline">¶</a></h2>
+<ol class="simple">
+<li>Every time you commit and push to the git repo, http://ict.readthedocs.io/ will be updated with the latest documentation</li>
 </ol>
 </div>
 </div>
