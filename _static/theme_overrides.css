@@ -1,0 +1,29 @@
+﻿.rst-content .section ol p, .rst-content .section ul p {
+    margin-bottom: 0 !important;
+}
+
+img {
+    max-height: 400px;
+}
+
+img[alt$="lg"] {
+    max-height: 800px;
+}
+
+img[alt$=">"] {
+  float: right;
+  margin-left: 10px;
+  max-height: 125px;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none !important;
+}

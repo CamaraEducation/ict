@@ -14,6 +14,7 @@ Contents:
    :maxdepth: 1
    :glob:
 
+   docs/camara-lab-setup/index
    docs/basic-computer-skills/index
    docs/libre-office-tutorials/index
 

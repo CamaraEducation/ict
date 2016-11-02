@@ -153,7 +153,7 @@ html_title = u'ICT Documentation Site'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['_static']
+html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -357,5 +357,18 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     # import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = ["_themes"]
+    # Override default css to get a larger width for local build
+    def setup(app):
+        #app.add_javascript("custom.js")
+        app.add_stylesheet('theme_overrides.css')
+else:
+     # Override default css to get a larger width for ReadTheDoc build
+    html_context = {
+        'css_files': [
+            'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+            'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
+            '_static/theme_overrides.css',
+        ],
+    }
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
