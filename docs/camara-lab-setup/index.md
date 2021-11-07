@@ -1,9 +1,10 @@
-Lab Setup & Maintenance Handbook
+Camara Education - Computer Lab Setup & Maintenance Handbook
 ================================
 
-All necessary information on setting up an E-Learning Centre can be found in this handbook.
+These are standards used by Camara Education in Setting up computer labs across African schools.
+All necessary information on setting up an E-Learning Centre can be found in this handbook. 
 
-If you have any queries, please contact Camara. All Camara E-Learning Centres must meet our high standards in
+If you have any queries, comments or inputs please contact Camara Education. All Camara E-Learning Centres must meet our high standards in
 security and safety; equipment will NOT be installed in sub-standard labs.
 
 Layout in Scribus
